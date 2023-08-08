@@ -10,9 +10,11 @@ Based on this data, your program should generate script that meets the requireme
 Below is an example execution of the program:
 
 Input
+
 Charge for food = $50.00
 
 Output
+
 Tip = $9.00
 
 Sales tax = $3.50
