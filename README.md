@@ -8,6 +8,7 @@ It should then calculate the amounts of an 18 percent tip and 7 percent sales ta
 Finally, it should add everything together and display the charge of the food plus tip and sales tax.
 Based on this data, your program should generate script that meets the requirements. 
 Below is an example execution of the program:
+
 Input
 Charge for food = $50.00
 
